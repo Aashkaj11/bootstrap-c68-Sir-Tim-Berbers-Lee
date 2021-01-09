@@ -1,0 +1,92 @@
+body {
+text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    background: linear-gradient(#ffe205 0%, #fc0037 100%);
+}
+
+a {
+    color: crimson;
+    text-decoration: none;
+}
+img{
+   width: 100px; 
+}
+.a:hover {
+    color: aliceblue;
+}
+
+
+#welcome {
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    color: blue;
+    display: table;
+    z-index:9;
+}
+
+h1,
+h2 {
+    font-size: 40px;
+    line-height: 1.2;
+
+}
+
+.line {
+    height: 6px;
+    background: linear-gradient(#8b00fc 0%, #fc0000 100%);
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+    color: crimson;
+}
+
+
+#sp {
+    font-size: 30px;
+}
+
+.menu {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#Writing a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: darkturquoise !important;
+}
+
+#V {
+    color: crimson;
+
+}
+
+#con {
+    background-color: yellow;
+}
+
+#con iframe {
+    width: 100%;
+}
+
+.con1 h3 {
+    display: inline;
+}
+
+.con1 a {
+    color: midnightblue;
+    text-shadow: none;
+}
